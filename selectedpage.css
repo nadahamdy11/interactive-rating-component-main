@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;+ 
+}
+ 
+.basic{
+  width: 400px;
+  height: 400px;
+  background-color:#212832;
+  border-radius: 30px;
+  margin: 150px 550px;
+}
+.icon-thank-you{
+  margin-left: 100px;
+  margin-top: 50px;
+ }
+ .thank-you-div{
+  background-color:#272f3b;
+  width:250px;
+  height: 50px;
+  border-radius:30px;
+  position: fixed;
+  margin-top: 20px;
+  margin-left: 80px;
+
+ }
+ h4{
+  color:#fc7613;
+  font-size: 13px;
+  text-align: center;
+ }
+ h2{
+  color: white;
+  position: fixed;
+  margin-top: 90px;
+  margin-left: 130px;
+ }
+ p{
+  color:#848a96;
+  position: fixed;
+  margin-top:130px;
+  margin-left: 50px;
+  width: 340px;
+ }
