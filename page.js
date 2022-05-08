@@ -6,9 +6,17 @@ let selected = "";
 buttons.forEach(btn => {
     btn.addEventListener("click", (c) => {
         selected = c.target.textContent
+         if(document.querySelector('.selected')){    
+            document.querySelector('.selected').classList.remove('selected');
+            }
+          else{
+                ("");
+            }
+        c.target.classList.add('selected');
+    
     })
 })
-// c -> textcontent in num button
+/* c -> textcontent in num button */
 submit.addEventListener("click", (c) => {
     if (selected === "") {
         return
@@ -17,3 +25,4 @@ submit.addEventListener("click", (c) => {
     basic.classList.add ("result");
     basic2.classList.remove("result");
 })
+
