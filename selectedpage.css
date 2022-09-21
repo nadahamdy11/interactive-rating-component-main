@@ -48,3 +48,10 @@ body{
   margin-left: 50px;
   width: 340px;
  }
+@media (max-width: 750px){
+  .basic{
+     width: 95%;
+        margin: 5px;
+    
+  }
+}
