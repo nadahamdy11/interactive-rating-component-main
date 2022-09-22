@@ -50,8 +50,15 @@ body{
  }
 @media (max-width: 750px){
   .basic{
-     width: 95%;
-        margin: 5px;
-    
+     width: 90%;
+     margin-left:15px;
   }
+  .icon-thank-you {
+    margin-left:50px;
+}
+  h2{
+  text-align:center;
+  }
+  #basic2 p{
+  margin-left:0;}
 }
