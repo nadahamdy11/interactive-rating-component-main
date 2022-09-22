@@ -168,11 +168,11 @@ color: white;
  }
 @media (max-width:750px) { 
        #basic{
-  width:90%;
+  width:93%;
   height: 500px;
   background-color:#212832;
   border-radius: 20px;
-  margin: 20px;
+  margin: 15px;
   margin-top:60px;
          
 }
@@ -183,8 +183,6 @@ color: white;
   .div-chosse-numbers{
     margin-left:-25px;
   }
- 
-
 #basic2{
   width: 99%;
     margin-left: -25px;
