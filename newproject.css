@@ -168,11 +168,13 @@ color: white;
  }
 @media (max-width:750px) { 
        #basic{
-  width:95%;
+  width:90%;
   height: 500px;
   background-color:#212832;
   border-radius: 20px;
-  margin: 5px;
+  margin: 20px;
+  margin-top:60px;
+         
 }
 .div-icon{
    border-radius:50%;
