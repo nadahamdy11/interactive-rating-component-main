@@ -51,14 +51,15 @@ body{
 @media (max-width: 750px){
   .basic{
      width: 90%;
-     margin-left:50px;
+     padding:15px;
   }
   .icon-thank-you {
-    margin-left:50px;
+    margin-left:40px;
 }
   h2{
   text-align:center;
   }
   #basic2 p{
-  margin-left:0;}
+  margin-left:0;
+  text-align:center}
 }
